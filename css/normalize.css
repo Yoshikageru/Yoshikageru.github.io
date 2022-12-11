@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+p,
+ul,
+ol,
+li {
+    font-size: 16px;
+}
+
+p {
+    line-height: 200%;
+}
+
+ul,
+ol,
+li {
+    line-height: 250%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    line-height: 200%;
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: 550;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 550;
+}
+
+h3 {
+    font-size: 22px;
+    font-weight: 550;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 550;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: 550;
+}
+
+a {
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.container {
+    margin: 0 auto;
+    overflow: hidden;
+}
